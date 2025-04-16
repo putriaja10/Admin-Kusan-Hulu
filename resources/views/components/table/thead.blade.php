@@ -1,0 +1,1 @@
+<thead {{ $attributes->merge(['class' => 'text-center text-lg font-semibold']) }}>{{ $slot }}</thead>

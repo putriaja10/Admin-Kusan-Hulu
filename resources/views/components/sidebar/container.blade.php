@@ -1,0 +1,1 @@
+<aside {{ $attributes->merge(['class' => 'bg-blue-400/90 w-64 h-screen px-4 py-6 flex flex-col shadow-md shadow-gray-500/70']) }}>{{ $slot }}</aside>
